@@ -1,0 +1,13 @@
+section {
+    background-color: brown;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 50px;
+}
+
+article {
+    margin: 20px;
+    text-align: center;
+}
+

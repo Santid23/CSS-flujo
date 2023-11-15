@@ -1,0 +1,46 @@
+#section1 {
+    display: flex;
+    background-color: brown;
+}
+
+#section2 {
+    height: 100%;
+    width: 100%;
+    background-color: green;
+}
+
+#divarriba {
+    display: flex;
+    text-align: center;
+}
+
+#divabajo {
+    display: flex;
+}
+
+h2 {
+    background-color: white;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.titulos {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#intros {
+    color: tomato;
+}
+
+#noticias {
+    color: green;
+}
+
+article {
+    flex: 1 100px;
+    padding: 10px;
+    margin: 30px;
+}

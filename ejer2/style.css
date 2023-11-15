@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0% 5% 0% 5%;
+    background-color: rgb(81, 127, 214);
+}
+
+.principio {
+    text-align: right;
+}
+
+h2 {
+    margin-top: -10px;
+}
+
+button {
+    margin-left: 15px;
+    background-color: rgb(81, 127, 214);
+    border: none;
+    color: white;
+}

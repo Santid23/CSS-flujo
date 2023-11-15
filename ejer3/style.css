@@ -1,0 +1,28 @@
+section {
+    background-color: rgb(172, 119, 221);
+    color: rgb(22, 104, 22);
+    display: flex;
+    align-items: center;
+}
+
+#div1 {
+    flex: 2 100px;
+    margin: 20px;
+    padding: 5px 30px 5px 5px;
+}
+
+#div2 {
+    background-color: rgb(70, 161, 70);
+    color: rgb(141, 82, 197);
+    margin: 20px;
+    padding: 50px;
+    border-radius: 10px;
+    text-align: left;
+    height: fit-content;
+}
+
+ul {
+    list-style: none;
+    padding: 2px 15px 10px 15px;
+}
+
